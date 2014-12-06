@@ -8,3 +8,5 @@ A repository for all my learning experiences in GO
   
 
 <b> 2. Deploying go projects </b>
+
+###Note: Moved to smgolangdev repository
